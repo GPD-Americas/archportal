@@ -14,8 +14,8 @@
 			  ${PORTBORDER}|${ABLUE}AAA${PERSON}/-///~    0 0 |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                     
 			  ${PORTBORDER}|${ABLUE}AA${PERSON}/~~//~      >  `${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/b|                                                                   
 			  ${PORTBORDER}|${ABLUE}AA${PERSON}~~///`,      O /${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                    
-			  ${PORTBORDER}|${ABLUE}AAA${PERSON}~////${ABLUE}A${PERSON}\    __/${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                             
-			  ${PORTBORDER}|${ABLUE}AA${PERSON}~~//${ABLUE}AAAA${PERSON}|  |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                                                                         
+			  ${PORTBORDER}|${ABLUE}AAA${PERSON}~////${ABLUE}A${PERSON}\    __/${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                    
+			  ${PORTBORDER}|${ABLUE}AA${PERSON}~~//${ABLUE}AAAA${PERSON}|  |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|             
 			  ${PORTBORDER}|${ABLUE}AAAAAAAAAA${PERSON}	     \${ABLUE}AAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                  
 			  ${PORTBORDER}|${ABLUE}AAAAAAAAA${PERSON} 	   /\ \${ABLUE}AAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                  
 			   ${PORTBORDER}\${ABLUE}AAAAAAA${PERSON}| 	  | ${ABLUE}A${NC}\_${ABLUE}AAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                     
