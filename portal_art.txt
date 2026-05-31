@@ -1,31 +1,31 @@
-                                                                        ${BOX}   ,____________________,  
-                                                   ${PORTBORDER}__________           ${BOX}  /___________________,/| 
-	   		            ${PORTBORDER},${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}+`         ${BOX} |                    | | 
-				   ${PORTBORDER}/${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}\\        ${BOX} |   https://mat.phd  | | 
-			          ${PORTBORDER}/${ABLUE}AA                       AAA${PORTBORDER}\/`      ${BOX} |   matt@mat.phd     | , 
-			         ${PORTBORDER}/${ABLUE}AAA       ${AP}ArchPortal      ${ABLUE}AAAA${PORTBORDER}\/\  	${BOX} |____________________|/  
-			        ${PORTBORDER}/${ABLUE}AAAA                       AAAAA${PORTBORDER}\/\   
-			       ${PORTBORDER}/${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}\/\,  
-			      ${PORTBORDER}/${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}\/\,  
-			     ${PORTBORDER}/${ABLUE}AAA${PERSON}\//\\\\\\\${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}\/\+                                                                            
-			    ${PORTBORDER}/${ABLUE}AAA${PERSON},\\\\\\\\\///${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}/\+\                                                                 
-			   ${PORTBORDER}/${ABLUE}AAA${PERSON},_\\\~~~~`~~\${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                   	 
-			  ${PORTBORDER}|${ABLUE}AAA${PERSON}--///~~````   \${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|   
-			  ${PORTBORDER}|${ABLUE}AAA${PERSON}/-///~    0 0 |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                     
-			  ${PORTBORDER}|${ABLUE}AA${PERSON}/~~//~      >  `${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/b|                                                                   
-			  ${PORTBORDER}|${ABLUE}AA${PERSON}~~///`,      O /${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                    
-			  ${PORTBORDER}|${ABLUE}AAA${PERSON}~////${ABLUE}A${PERSON}\    __/${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                    
-			  ${PORTBORDER}|${ABLUE}AA${PERSON}~~//${ABLUE}AAAA${PERSON}|  |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|             
-			  ${PORTBORDER}|${ABLUE}AAAAAAAAAA${PERSON}	     \${ABLUE}AAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                  
-			  ${PORTBORDER}|${ABLUE}AAAAAAAAA${PERSON} 	   /\ \${ABLUE}AAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                  
-			   ${PORTBORDER}\${ABLUE}AAAAAAA${PERSON}| 	  | ${ABLUE}A${NC}\_${ABLUE}AAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|                                                                     
-			    ${PORTBORDER}\${ABLUE}AAAAAA${PERSON}|      |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|									  
+
+                                                    ${PORTBORDER}__________
+	   		            ${PORTBORDER},${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}+`
+				   ${PORTBORDER}/${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}\\
+			          ${PORTBORDER}/${ABLUE}AA                       AAA${PORTBORDER}\/`
+			         ${PORTBORDER}/${ABLUE}AAA       ${AP}ArchPortal      ${ABLUE}AAAA${PORTBORDER}\/\
+			        ${PORTBORDER}/${ABLUE}AAAA                       AAAAA${PORTBORDER}\/\
+			       ${PORTBORDER}/${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}\/\,
+			      ${PORTBORDER}/${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}\/\,
+			     ${PORTBORDER}/${ABLUE}AAA${PERSON}\//\\\\\\\${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}\/\+
+			    ${PORTBORDER}/${ABLUE}AAA${PERSON},\\\\\\\\\///${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}/\+\
+			   ${PORTBORDER}/${ABLUE}AAA${PERSON},_\\\~~~~`~~\${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|
+			  ${PORTBORDER}|${ABLUE}AAA${PERSON}--///~~````   \${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|
+			  ${PORTBORDER}|${ABLUE}AAA${PERSON}/-///~    0 0 |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|
+			  ${PORTBORDER}|${ABLUE}AA${PERSON}/~~//~      >  `${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/b|
+			  ${PORTBORDER}|${ABLUE}AA${PERSON}~~///`,      O /${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|
+			  ${PORTBORDER}|${ABLUE}AAA${PERSON}~////${ABLUE}A${PERSON}\    __/${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|
+			  ${PORTBORDER}|${ABLUE}AA${PERSON}~~//${ABLUE}AAAA${PERSON}|  |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|
+			  ${PORTBORDER}|${ABLUE}AAAAAAAAAA${PERSON}	     \${ABLUE}AAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|
+			  ${PORTBORDER}|${ABLUE}AAAAAAAAA${PERSON} 	   /\ \${ABLUE}AAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|
+			   ${PORTBORDER}\${ABLUE}AAAAAAA${PERSON}| 	  | ${ABLUE}A${NC}\_${ABLUE}AAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|
+			    ${PORTBORDER}\${ABLUE}AAAAAA${PERSON}|      |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}||/P|
 			     ${PORTBORDER}\${ABLUE}AAAAA${PERSON})______|${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}/\/+
-			      ${PORTBORDER}\${ABLUE}AAA${PERSON}/  __   |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}/\/`${PERSON} 
+			      ${PORTBORDER}\${ABLUE}AAA${PERSON}/  __   |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}/\/`${PERSON}
 	                       ${PORTBORDER}\${ABLUE}A${PERSON}/  /${ABLUE}AA${PERSON}|  |${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}/*`${PERSON}
-			        /  /${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}///${PERSON} 
+			        /  /${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}///${PERSON}
 			       /  /${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}/\/${PERSON}
 			      /_ / ${PORTBORDER}\${ABLUE}AAAAAAAAAAAAAAAAAAAAAAAAAAAA${PORTBORDER}//${PERSON}
 			     (  \_  ${PORTBORDER}\==========================/,${PERSON}
-			      `.__} 
+			      `.__}
 				${NC}

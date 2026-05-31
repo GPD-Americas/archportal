@@ -1,0 +1,31 @@
+
+                                                         ${PORTBORDER}__________
+                  ${PORTBORDER},${CAUTION}!${AB}AAAAAAAAA${CAU}!!!!!!!!!!!!!!${PORTBORDER}+`
+                 ${PORTBORDER}/${CAUTION}!!${AB}AAA${CAU}!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}\\
+                ${PORTBORDER}/${CAUTION}!!!!!!!!!              !!!!!${PORTBORDER}\/`
+               ${PORTBORDER}/${CAUTION}!!!!!                   !!!!!!${PORTBORDER}\/\
+              ${PORTBORDER}/${CAUTION}!! !!!    !!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}\/\
+             ${PORTBORDER}/${CAUTION}!!!  !!                         !!${PORTBORDER}\/\,
+            ${PORTBORDER}/${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}\/\,
+           ${PORTBORDER}/${CAUTION}!!!!                              !!!!${PORTBORDER}\/\+
+          ${PORTBORDER}/${CAUTION}!!!!!${AB}A                            ${CAU}!!!!!!!${PORTBORDER}/\+\
+         ${PORTBORDER}/${CAUTION}!!!!!!!${AB}A            ${CAU}!!            !!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!${AB}A          ${CAU}!!!!          !!!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!${AB}AAAA        A${CAU}!!!!!        !!!!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!  !!!!!!!!       ${AB}A${CAU}!!!!!       ${CAU}!!!!!!!!!!!${PORTBORDER}||/b|
+        ${PORTBORDER}|${CAUTION}!!      !!!!!      ${AB}A${CAU}!!!!!      ${CAU}!!!!${AB}A!!${AB}A!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!!!!!!     ${AB}A${CAU}!!!${AB}AA        ${CAU}!!!!!${AB}AAAA${CAU}!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!!!!!!!${AB}AAAAAAAAAA ${CAU}!!!!${AB}AAA${CAU}!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!        !!!!!!${AB}AAAAAAAAA ${CAU}!!!!${CAU}AA!!!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!    ${AB}AAAAAAA${CAU}!!!!   ${AB}AAAA ${CAU}!!!!!!!!!${AB}AAAAA${CAU}!${PORTBORDER}||/P|
+         ${PORTBORDER}\${CAUTION}!    ${AB}AAAAAAAAA${CAU}!!!  ${AB}AAAA A${CAU}!!!${AB}AAAAAAA${CAU}!!!!!${PORTBORDER}||/P|
+          ${PORTBORDER}\${CAUTION}    ${AB}AAAAAAAAAA${CAU}!!! ${AB}AAAAAAA${CAU}!!${AB}AAAA${CAU}!!!!!!!!${PORTBORDER}||/P|
+           ${PORTBORDER}\${CAUTION}!!!!!!!!!!${AB}AAAAAAA ${AB}AAAAAAAA!${AB}AAAAA${CAU}!!!!!!!${PORTBORDER}/\/+
+            ${PORTBORDER}\${CAUTION}!!!!!!!!!${AB}AAAAAAAAAAAAAAAA${CAU}!${AB}A${CAU}!!!!!!!!!!${PORTBORDER}/\/`
+             ${PORTBORDER}\${CAUTION}!!!!!!!!${AB}AAAA${CAU}!!!!${AB}AA${CAU}!!!!!!!!!!!!${AB}A${CAU}!!!!${PORTBORDER}/*`
+              ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!${AB}A${CAU}!!!!!!AAA${CAU}!!!!!!!!${PORTBORDER}///
+               ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!${AB}A!!${AB}AA!${PORTBORDER}/\/
+                ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}//
+                 ${PORTBORDER}\==========================/,
+
+				${NC}

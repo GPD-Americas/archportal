@@ -1,0 +1,31 @@
+
+                                  ${PORTBORDER}__________
+                  ${PORTBORDER},${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}+`
+                 ${PORTBORDER}/${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}\\
+                ${PORTBORDER}/${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}\/`
+               ${PORTBORDER}/${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}\/\
+              ${PORTBORDER}/${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}\/\
+             ${PORTBORDER}/${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}\/\,
+            ${PORTBORDER}/${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}\/\,
+           ${PORTBORDER}/${CAUTION}!!!!                              !!!!${PORTBORDER}\/\+
+          ${PORTBORDER}/${CAUTION}!!!!!!             !!             !!!!!!!${PORTBORDER}/\+\
+         ${PORTBORDER}/${CAUTION}!!!!!!!!           !!!!           !!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!!         !!!!!!         !!!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!!!        !!!!!!        !!!!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!!!!       !!!!!!       !!!!!!!!!!!${PORTBORDER}||/b|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!!!!!      !!!!!!      !!!!!!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!!!!!!     !!!!!!     !!!!!!!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!!!!!!!     !!!!     !!!!!!!!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!!!!!!!!     !!     !!!!!!!!!!!!!!!${PORTBORDER}||/P|
+        ${PORTBORDER}|${CAUTION}!!!!!!!!!!!!!!!!!          !!!!!!!!!!!!!!!!${PORTBORDER}||/P|
+         ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!!!   !!   !!!!!!!!!!!!!!!!!${PORTBORDER}||/P|
+          ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!!!  !!  !!!!!!!!!!!!!!!!!!${PORTBORDER}||/P|
+           ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!!!    !!!!!!!!!!!!!!!!!!${PORTBORDER}/\/+
+            ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!!!  !!!!!!!!!!!!!!!!!!${PORTBORDER}/\/`
+             ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}/*`
+              ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}///
+               ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}/\/
+                ${PORTBORDER}\${CAUTION}!!!!!!!!!!!!!!!!!!!!!!!!!!!!${PORTBORDER}//
+                 ${PORTBORDER}\==========================/,
+
+				${NC}
